@@ -1,5 +1,5 @@
 $(document).ready(
 
 	function(){
-		$('h1').css('color', '#ff0')
+		$('h1').css('color', '#FFC0CB')
 	});
