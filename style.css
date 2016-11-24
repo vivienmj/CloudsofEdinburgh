@@ -1,9 +1,11 @@
-h1{ 
-color:red;
-font-family:'helvetica'
-font-size: 30px;
- }
- background-color:blue
+.nav-tabs li a{
+	color:black;
+}
  
 
  
+.home{
+	color:black!important 
+
+	;
+}
