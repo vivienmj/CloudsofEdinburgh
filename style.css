@@ -1,11 +1,16 @@
-.nav-tabs li a{
-	color:black;
+.jumbotron {
+	padding-top: 90px;
+	min-height: 400px;
+	margin-bottom: 0;
+	background-image: url('cover.JPG');
+	background-size: cover;
+	background-attachment: fixed;
 }
- 
 
- 
-.home{
-	color:black!important 
+.jumbotron img {
+  margin-top: 50px;
+}
 
-	;
+.jumbotron .form-group {
+  line-height: 1em;
 }
