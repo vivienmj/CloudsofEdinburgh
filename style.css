@@ -46,3 +46,19 @@ color: white;
 .row{
   padding-top: 50px;
 }
+
+#numberthree {
+    width:400px;
+    height:300px;
+    border-radius:40px;
+    overflow:hidden;
+}
+
+#numberfour {
+    width:400px;
+    height:300px;
+    border-radius:40px;
+    overflow:hidden;
+}
+
+
