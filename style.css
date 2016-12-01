@@ -42,3 +42,7 @@ background-color: #FFC0CB;
 border-color: #FFC0CB;
 color: white;
 }
+
+.row{
+  padding-top: 50px;
+}
