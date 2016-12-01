@@ -22,3 +22,23 @@
   clear:both;
   padding-top:20px;
 } 
+
+#social-buttons button {
+color: white;
+margin-top: 50px;
+}
+.btn-twitter {
+background-color: #00acee;
+border-color: #009ad5;
+color: white;
+}
+.btn-facebook {
+background-color: #4868ac;
+border-color: #314776;
+color: white;
+}
+.btn-pinterest {
+background-color: #b62f26;
+border-color: #b62f26;
+color: white;
+}
